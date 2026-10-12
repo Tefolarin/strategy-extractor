@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
+
+# Downloaded sample filings and anything a user uploads — real filings can
+# be large, and this isn't the place to redistribute someone else's PDF
+data/*.pdf
